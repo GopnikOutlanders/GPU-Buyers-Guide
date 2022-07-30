@@ -298,3 +298,23 @@ Unsupported:
 
 * UHD 600
 * UHD 605
+
+### **Rocket Lake/Tiger Lake**
+
+#### Highest Supported OS: None
+
+Unsupported:
+
+* UHD 750
+* UHD 730
+* UHD P750
+
+### **Alder Lake**
+
+#### Highest Supported OS: None
+
+Unsupported:
+
+* UHD 770
+* UHD 730
+* UHD 710
