@@ -308,6 +308,7 @@ Unsupported:
 * UHD 750
 * UHD 730
 * UHD P750
+* Iris Xe
 
 ### **Alder Lake**
 
